@@ -1,0 +1,218 @@
+[
+  {
+    "id": 3,
+    "numero_bus": 7,
+    "placa": "NNF-151",
+    "fecha": "2025-09-20",
+    "caracteristicas": {
+      "id": 1,
+      "branding": "econociva",
+      "asientos": 30,
+      "detalles": "servicio económico"
+    },
+    "marca_bus": {
+      "id": 2,
+      "fabricante": "mercedez-benz",
+      "modelo": "O500RSD"
+    },
+    "status": "inactivo"
+  },
+  {
+    "id": 106,
+    "numero_bus": 12,
+    "placa": "RDP-888",
+    "fecha": "2025-09-20",
+    "caracteristicas": {
+      "id": 2,
+      "branding": "exclusiva",
+      "asientos": 45,
+      "detalles": "180º bus cama"
+    },
+    "marca_bus": {
+      "id": 3,
+      "fabricante": "scania",
+      "modelo": "K410"
+    },
+    "status": "activo"
+  },
+  {
+    "id": 1,
+    "numero_bus": 14,
+    "placa": "RDP-101",
+    "fecha": "2025-09-20",
+    "caracteristicas": {
+      "id": 1,
+      "branding": "econociva",
+      "asientos": 30,
+      "detalles": "servicio económico"
+    },
+    "marca_bus": {
+      "id": 2,
+      "fabricante": "mercedez-benz",
+      "modelo": "O500RSD"
+    },
+    "status": "activo"
+  },
+  {
+    "id": 6,
+    "numero_bus": 15,
+    "placa": "ESS-144",
+    "fecha": "2025-09-20",
+    "caracteristicas": {
+      "id": 1,
+      "branding": "econociva",
+      "asientos": 30,
+      "detalles": "servicio económico"
+    },
+    "marca_bus": {
+      "id": 2,
+      "fabricante": "mercedez-benz",
+      "modelo": "O500RSD"
+    },
+    "status": "inactivo"
+  },
+  {
+    "id": 53,
+    "numero_bus": 18,
+    "placa": "ABC-144",
+    "fecha": "2025-09-20",
+    "caracteristicas": {
+      "id": 2,
+      "branding": "exclusiva",
+      "asientos": 45,
+      "detalles": "180º bus cama"
+    },
+    "marca_bus": {
+      "id": 2,
+      "fabricante": "mercedez-benz",
+      "modelo": "O500RSD"
+    },
+    "status": "activo"
+  },
+  {
+    "id": 103,
+    "numero_bus": 20,
+    "placa": "GGG-888",
+    "fecha": "2025-09-20",
+    "caracteristicas": {
+      "id": 1,
+      "branding": "econociva",
+      "asientos": 30,
+      "detalles": "servicio económico"
+    },
+    "marca_bus": {
+      "id": 2,
+      "fabricante": "mercedez-benz",
+      "modelo": "O500RSD"
+    },
+    "status": "activo"
+  },
+  {
+    "id": 104,
+    "numero_bus": 21,
+    "placa": "GGG-844",
+    "fecha": "2025-09-20",
+    "caracteristicas": {
+      "id": 2,
+      "branding": "exclusiva",
+      "asientos": 45,
+      "detalles": "180º bus cama"
+    },
+    "marca_bus": {
+      "id": 3,
+      "fabricante": "scania",
+      "modelo": "K410"
+    },
+    "status": "activo"
+  },
+  {
+    "id": 5,
+    "numero_bus": 27,
+    "placa": "NTF-144",
+    "fecha": "2025-09-20",
+    "caracteristicas": {
+      "id": 2,
+      "branding": "exclusiva",
+      "asientos": 45,
+      "detalles": "180º bus cama"
+    },
+    "marca_bus": {
+      "id": 2,
+      "fabricante": "mercedez-benz",
+      "modelo": "O500RSD"
+    },
+    "status": "inactivo"
+  },
+  {
+    "id": 2,
+    "numero_bus": 41,
+    "placa": "ABC-123",
+    "fecha": "2025-09-19",
+    "caracteristicas": {
+      "id": 2,
+      "branding": "exclusiva",
+      "asientos": 45,
+      "detalles": "180º bus cama"
+    },
+    "marca_bus": {
+      "id": 1,
+      "fabricante": "volvo",
+      "modelo": "B450"
+    },
+    "status": "activo"
+  },
+  {
+    "id": 4,
+    "numero_bus": 47,
+    "placa": "NTF-151",
+    "fecha": "2025-09-20",
+    "caracteristicas": {
+      "id": 2,
+      "branding": "exclusiva",
+      "asientos": 45,
+      "detalles": "180º bus cama"
+    },
+    "marca_bus": {
+      "id": 2,
+      "fabricante": "mercedez-benz",
+      "modelo": "O500RSD"
+    },
+    "status": "inactivo"
+  },
+  {
+    "id": 102,
+    "numero_bus": 70,
+    "placa": "ABC-888",
+    "fecha": "2025-09-20",
+    "caracteristicas": {
+      "id": 2,
+      "branding": "exclusiva",
+      "asientos": 45,
+      "detalles": "180º bus cama"
+    },
+    "marca_bus": {
+      "id": 2,
+      "fabricante": "mercedez-benz",
+      "modelo": "O500RSD"
+    },
+    "status": "activo"
+  },
+  {
+    "id": 105,
+    "numero_bus": 71,
+    "placa": "GGG-001",
+    "fecha": "2025-09-20",
+    "caracteristicas": {
+      "id": 3,
+      "branding": "superciva",
+      "asientos": 45,
+      "detalles": "servicio estandar"
+    },
+    "marca_bus": {
+      "id": 3,
+      "fabricante": "scania",
+      "modelo": "K410"
+    },
+    "status": "activo"
+  }
+]
