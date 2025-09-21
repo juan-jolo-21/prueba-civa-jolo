@@ -1,0 +1,18 @@
+{
+  "numero_bus": 27,
+  "fecha": "2025-09-20",
+  "caracteristicas": {
+    "asientos": 30,
+    "branding": "econociva",
+    "detalles": "servicio económico",
+    "id": 1
+  },
+  "marca_bus": {
+    "id": 2,
+    "fabricante": "mercedez-benz",
+    "modelo": "O500RSD"
+  },
+  "id": 6,
+  "placa": "ESS-144",
+  "status": "inactivo"
+}

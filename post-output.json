@@ -1,0 +1,19 @@
+{
+    "id":"1",
+    "numero_bus":41,
+    "placa":"ABC-123",
+    "fecha":"2024-03-20",
+    "caracteristicas":{
+        "id":111,
+        "branding":"exclusiva",
+        "asientos":45,
+        "detalles":"180º bus cama"
+    },
+    "marca_bus":{
+        "id":101,
+        "fabricante":"volvo",
+        "modelo":"B450"
+        
+    },
+    "status":"activo"
+}

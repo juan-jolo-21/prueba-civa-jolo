@@ -1,0 +1,9 @@
+{
+    "id":"1",
+    "numero_bus":41,
+    "placa":"ABC-123",
+    "fecha":"2024-03-20",
+    "caracteristicas": 111,
+    "marca_bus":101,
+    "status":"activo"
+}
