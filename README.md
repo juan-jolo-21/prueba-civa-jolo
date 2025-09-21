@@ -23,6 +23,6 @@
       insert  into categoria_comercial (branding,asientos,detalles)
       values ('superciva',45,'servicio estandar');
 
-   6. A través del enpoint "http://localhost:7777/bus", colocar los datos de prueba cada uno. los datos están en 'all-test-data.json'
-   7. Ya se puede probar las peticiones get y get/{id}
-   8. Abrir la carpeta front-civa en consola, luego hacer npm install y despues npm run dev
+6. A través del enpoint "http://localhost:7777/bus", colocar los datos de prueba cada uno. los datos están en 'all-test-data.json'
+7. Ya se puede probar las peticiones get y get/{id}
+8. Abrir la carpeta front-civa en consola, luego hacer npm install y despues npm run dev
