@@ -5,6 +5,7 @@
 3. Abrir consola dentro de la carpeta buses y ejecutar mvn clean install
 4. Ejecutar el proyecto spring boot
 5. Luego; en posgres, copiar y ejecutar el siguiente scrpit:
+
       insert into modelo (fabricante,modelo)
       values ('volvo','B450');
       
@@ -23,6 +24,6 @@
       insert  into categoria_comercial (branding,asientos,detalles)
       values ('superciva',45,'servicio estandar');
 
-6. A través del enpoint "http://localhost:7777/bus", colocar los datos de prueba cada uno. los datos están en 'all-test-data.json'
-7. Ya se puede probar las peticiones get y get/{id}
-8. Abrir la carpeta front-civa en consola, luego hacer npm install y despues npm run dev
+7. A través del enpoint "http://localhost:7777/bus", colocar los datos de prueba cada uno. los datos están en 'all-test-data.json'
+8. Ya se puede probar las peticiones get y get/{id}
+9. Abrir la carpeta front-civa en consola, luego hacer npm install y despues npm run dev
